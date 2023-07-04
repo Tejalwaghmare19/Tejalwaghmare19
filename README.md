@@ -2,7 +2,7 @@
 I am Tejal 
 (https://github-readme-stats.vercel.app/api?username=Tejal&theme=dark&show_icons=true)
 
-### Hi there 👋, I'm Tejal Waghmare
+### I'm Tejal Waghmare
 #### A data Analyst Enthusiast
 
 ##  Work Experience
