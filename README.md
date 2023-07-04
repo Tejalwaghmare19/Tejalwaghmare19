@@ -5,7 +5,7 @@ I am Tejal , A data Analyst enthusiast
 
 ### Hi there 👋, Tejal Waghmare
 #### A data Analyst Enthusiast
-![A data Analyst Enthusiast](C:\Users\Tejal\Downloads\Tejalwaghmare19-banner (4).png)
+https://www.canva.com/design/DAFnruPRQQI/sntSzTYD4CKxXh0S98fH9A/edit?utm_content=DAFnruPRQQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 I have worked on all the projects to enhance my soft skills to be more proficient and acquire in-depth knowledge and which can lead to putting an excellent impression on the recruiter. 
 
