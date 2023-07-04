@@ -8,8 +8,8 @@
 
 
 ##  Work Experience
-👩🏼‍💻 Python Developer intern at APS Microtech - Nagpur
-📱 Web Developer intern at Bharatintern  - Pune
+👩🏼‍💻 Python Development intern at APS Microtech - Nagpur
+📱 Web Development intern at Bharatintern  - Pune
 
 ## Skillset
 👩🏼‍💻 Python 
