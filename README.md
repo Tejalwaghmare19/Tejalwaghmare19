@@ -12,7 +12,7 @@ I have worked on all the projects to enhance my soft skills to be more proficien
 Skills: Python / SQL / Excel / Power BI / Tableau
 
 - 🔭 I’m currently working  on my skills 
-- 🌱 I’m currently learning Data Analyst  
+- 🌱 I’m currently learning Data Analytics 
 - 📫 How to reach me: Linkedin, Email-Id 
 - 😄 Pronouns: Tej 
 - ⚡ Fun fact: "No would be crazier than me in terms of my work lol" 
