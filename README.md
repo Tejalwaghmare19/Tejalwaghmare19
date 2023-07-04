@@ -2,7 +2,7 @@
 
 ### Hey, I'm Tejal Waghmare
 #### A data Analyst Enthusiast
-(https://github-readme-stats.vercel.app/api?username=Tejal&theme=dark&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=Tejalwaghmare19&theme=dark&show_icons=true)
 
 ![Uploading composition_1.gif…]()
 
