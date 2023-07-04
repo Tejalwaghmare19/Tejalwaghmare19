@@ -4,6 +4,7 @@
 #### A data Analyst Enthusiast
 (https://github-readme-stats.vercel.app/api?username=Tejal&theme=dark&show_icons=true)
 
+![Uploading composition_1.gif…]()
 
 ##  Work Experience
 👩🏼‍💻 Python Developer intern at APS Microtech - Nagpur
