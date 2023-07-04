@@ -1,9 +1,9 @@
-### Hi there 👋
-I am Tejal 
+
+
+### Hey, I'm Tejal Waghmare
+#### A data Analyst Enthusiast
 (https://github-readme-stats.vercel.app/api?username=Tejal&theme=dark&show_icons=true)
 
-### I'm Tejal Waghmare
-#### A data Analyst Enthusiast
 
 ##  Work Experience
 👩🏼‍💻 Python Developer intern at APS Microtech - Nagpur
