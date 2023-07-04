@@ -23,7 +23,7 @@ I have worked on all the projects to enhance my soft skills to be more proficien
 - 🌱 I’m currently learning Data Analytics 
 - 📫 How to reach me: Linkedin, Email-Id 
 - 😄 Pronouns: Tej 
-- ⚡ Fun fact: "No would be crazier than me in terms of my work lol" 
+- ⚡ Fun fact: "No would be more crazier than me in terms of my work lol" 
 
 
 
