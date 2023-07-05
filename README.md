@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejal Waghmare</h1>
-<h3 align="center">A Data Analyst enthusiast</h3>
+<h3 align="center">A Data Analyst Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/672adc11821b904dc3fa9a36b1e8625338ed84b5856afaf63a405bfd4bd713cd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343433353130302f73637265656e73686f74732f31353131343837382f6d656469612f34633661306336363039613933643134336262323433303266393161383635372e676966">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Analytics and AWS**
 
-- 💬 Ask me about **SQL , Python , Excel , Power Bi**
+- 💬 Ask me about **SQL , Python, Microsoft Excel , Power-BI**
 
 - 📫 How to reach me **tejalwaghmare229@gmail.com**
 
