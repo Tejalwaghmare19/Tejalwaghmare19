@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tejal Waghmare</h1>
 <h3 align="center">A Data Analyst enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ydpFaDRrQSLBzN778">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/672adc11821b904dc3fa9a36b1e8625338ed84b5856afaf63a405bfd4bd713cd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343433353130302f73637265656e73686f74732f31353131343837382f6d656469612f34633661306336363039613933643134336262323433303266393161383635372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejalwaghmare19&label=Profile%20views&color=0e75b6&style=flat" alt="tejalwaghmare19" /> </p>
 
