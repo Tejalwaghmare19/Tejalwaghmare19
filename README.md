@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SQL , Python, Microsoft Excel , Power-BI**
 
-- 📫 How to reach me **tejalwaghmare229@gmail.com**
+- 📫 How to reach me **tejalwaghmare229@gmail.com and Linkedin**
 
 - ⚡ Fun fact **I think I am funny**
 
