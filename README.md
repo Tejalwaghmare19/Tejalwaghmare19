@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejalwaghmare19&label=Profile%20views&color=0e75b6&style=flat" alt="tejalwaghmare19" /> </p>
 
-- 🔭 I’m currently working on ** - HR Analytics Dashboard in Power BI**
+- 🔭 I’m currently working on -**HR Analytics Dashboard in Power BI**
 
 - 🌱 I’m currently learning **Data Analytics and AWS**
 
