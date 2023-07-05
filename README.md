@@ -17,10 +17,9 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left"> Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejal-waghmare-347242212" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejal-waghmare-347242212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejal-waghmare-347242212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejal-waghmare-347242212" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +31,6 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejalwaghmare19&show_icons=true&locale=en&layout=compact" alt="tejalwaghmare19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejalwaghmare19&show_icons=true&locale=en" alt="tejalwaghmare19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejalwaghmare19&" alt="tejalwaghmare19" /></p>
+
