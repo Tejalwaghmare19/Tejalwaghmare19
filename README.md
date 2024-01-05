@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 - 🌱 I’m currently learning **Data Analytics and AWS**
 
-- 💬 Ask me about **SQL , Python , Excel , Power BI**
+- 💬 Ask me about **SQL, Python,  Excel,  Machine learning, Tablaue Power BI**
 
 - 📫 How to reach me **tejalwaghmare29@gmail.com**
 
