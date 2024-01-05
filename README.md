@@ -1,7 +1,7 @@
 <img align="center" alt="API" width= "950"
 src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966">
 <h1 align="center">Hi 👋, I'm Tejal Waghmare</h1>
-<h3 align="center">A Data Analyst Enthusiast</h3>
+<h3 align="center">A Data science and analyst Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/672adc11821b904dc3fa9a36b1e8625338ed84b5856afaf63a405bfd4bd713cd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343433353130302f73637265656e73686f74732f31353131343837382f6d656469612f34633661306336363039613933643134336262323433303266393161383635372e676966">
 
@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0
 
 - 💬 Ask me about **SQL , Python , Excel , Power BI**
 
-- 📫 How to reach me **tejalwaghmare229@gmail.com**
+- 📫 How to reach me **tejalwaghmare29@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
